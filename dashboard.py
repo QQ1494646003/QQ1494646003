@@ -24,8 +24,8 @@ def launchpad(enterprise_user):
     while(True):
         #print(help_info)
 
-        if enterprise_user: operation = input('Enterprise: ')
-        else: operation = input('General: ')
+        #if enterprise_user: operation = input('Enterprise: ')
+        #else: operation = input('General: ')
         
         #if operation == '0':
         #    print('Exiting.')
