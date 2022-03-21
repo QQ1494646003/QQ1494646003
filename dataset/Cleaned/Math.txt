@@ -1,0 +1,15 @@
+Given the position of a Bishop (A, B) on an 8 * 8 chessboard. Your task is to count the total number of squares that can be visited by the Bishop in one move. The position of the Bishop is denoted using row and column number of the chessboard.
+
+Hamming distance between two non-negative integers is defined as the number of positions at which the corresponding bits are different. Given an array A of N non-negative integers, find the sum of hamming distances of all pairs of integers in the array. Return the answer modulo 1000000007.
+
+Fizzbuzz is one of the most basic problems in the coding interview world. Try to write a small and elegant code for this problem. Given a positive integer A, return an array of strings with all the integers from 1 to N. But for multiples of 3 the array should have “Fizz” instead of the number. For the multiples of 5, the array should have “Buzz” instead of the number. For numbers which are multiple of 3 and 5 both, the array should have “FizzBuzz” instead of the number.
+
+Given 2 non negative integers m and n, find gcd(m, n) . GCD of 2 integers m and n is defined as the greatest integer g such that g is a divisor of both m and n. Both m and n fit in a 32 bit signed integer.
+
+Given a string, find the rank of the string amongst its permutations sorted lexicographically. Note that the characters might be repeated. If the characters are repeated, we need to look at the rank in unique permutations.
+
+Given a number A in a form of string. You have to find the smallest number that has same set of digits as A and is greater than A. If A is the greatest possible number with its set of digits, then return -1.
+
+There are A cities numbered from 1 to A. You have already visited M cities, the indices of which are given in an array B of M integers. If a city with index i is visited, you can visit either the city with index i-1 (i >= 2) or the city with index i+1 (i < A) if they are not already visited. Eg: if N = 5 and array M consists of [3, 4], then in the first level of moves, you can either visit 2 or 5. You keep visiting cities in this fashion until all the cities are not visited. Find the number of ways in which you can visit all the cities modulo 10^9+7.
+
+The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked ‘Finish’ in the diagram below). How many possible unique paths are there?

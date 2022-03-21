@@ -1,0 +1,12 @@
+Max Heap is a special kind of complete binary tree in which for every node the value present in that node is greater than the value present in it’s children nodes.
+Find the number of distinct Max Heap can be made from A distinct integers.In short, you have to ensure the following properties for the max heap :Heap has to be a complete binary tree ( A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes are as far left as possible.)Every node is greater than all its children.
+
+Given two integers arrays A and B of size N each.Find the maximum N elements from the sum combinations (Ai + Bj) formed from elements in array A and B.
+
+Given an array A , representing seats in each row of a stadium. You need to sell tickets to B people.Each seat costs equal to the number of vacant seats in the row it belongs to. The task is to maximize the profit by selling the tickets to B people.
+
+Given N bags, each bag contains Bi chocolates. There is a kid and a magician. In one unit of time, kid chooses a random bag i, eats Bi chocolates, then themagician fills the ith bag with floor(Bi/2) chocolates.Find the maximum number of chocolates that kid can eat in A units of time.
+
+Given two equally sized 1-D arrays A, B containing N integers each.A sum combination is made by adding one element from array A and another element of array B.Return the maximum C valid sum combinations from all the possible sum combinations.
+
+You are given an array of N integers, A1, A2 ,..., AN and an integer B. Return the of count of distinct numbers in all windows of size B. Formally, return an array of size N-B+1 where i'th element in this array contains number of distinct elements in sequence Ai, Ai+1 ,..., Ai+B-1.Design and implement a data structure for LRU (Least Recently Used) cache. It should support the following operations: get and set.

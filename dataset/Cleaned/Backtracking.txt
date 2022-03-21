@@ -1,0 +1,5 @@
+The set [1,2,3,…,n] contains a total of n! unique permutations.By listing and labeling all of the permutations in order,We get the following sequence (ie, for n = 3 ) :
+
+The gray code is a binary numeral system where two successive values differ in only one bit.Given a non-negative integer n representing the total number of bits in the code, print the sequence of gray code. A gray code sequence must begin with 0.
+
+Given an integer n, return all distinct solutions to the n-queens puzzle.Each solution contains a distinct board configuration of the n-queens’ placement, where 'Q' and '.' both indicate a queen and an empty space respectively.

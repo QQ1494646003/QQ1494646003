@@ -1,0 +1,17 @@
+For Given Number N find if its COLORFUL number or notReturn 0/1in order in an array and return the array from your function ( Looking at the function signature will make things clearer ). Note that, if no pair exists, return empty list.If multiple solutions exist, output the one where index2 is minimum. If there are multiple solutions with the minimum index2, choose the one with minimum index1 out of them. Input: [2, 7, 11, 15], target=9 Output: index1 = 1, index2 = 2
+
+Given an integer array A of size N containing 0's and 1's only. You need to find the length of the longest subarray having count of 1’s one more than count of 0’s.
+
+Given an integer array A of size N, find the first repeating element in it.We need to find the element that occurs more than once and whose index of first occurrence is smallest.If there is no repeating element, return -1.
+
+Given an array S of n integers, are there elements a, b, c, and d in S such that a + b + c + d = target? Find all unique quadruplets in the array which gives the sum of target.
+
+Given an array of strings, return all groups of strings that are anagrams. Represent a group by a list of integers representing the index in the original list. Look at the sample case for clarification.Anagram : a word, phrase, or name formed by rearranging the letters of another, such as 'spar', formed from 'rasp'
+
+Given a string A consisting of lowercase characters.Check if characters of the given string can be rearranged to form a palindrome.Return 1 if it is possible to rearrange the characters of the string A such that it becomes a palindrome else return 0.
+
+Given two integers representing the numerator and denominator of a fraction, return the fraction in string format.If the fractional part is repeating, enclose the repeating part in parentheses.
+
+Given a stream of numbers A. On arrival of each number, you need to increase its first occurence by 1 and include this in the stream.Return the final stream of numbers.
+
+You are given a string, S, and a list of words, L, that are all of the same length.Find all starting indices of substring(s) in S that is a concatenation of each word in L exactly once and without any intervening characters.

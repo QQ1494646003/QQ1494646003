@@ -1,0 +1,127 @@
+Given a string A, find the common palindromic sequence ( A sequence which does not need to be contiguous and is a pallindrome), which is common in itself.
+You need to return the length of longest palindromic subsequence in A.
+
+Given a string A, we may represent it as a binary tree by partitioning it to two non-empty substrings recursively.
+Below is one possible representation of A = “great”:
+To scramble the string, we may choose any non-leaf node and swap its two children.
+For example, if we choose the node “gr” and swap its two children, it produces a scrambled string “rgeat”.
+We say that “rgeat” is a scrambled string of “great”.
+Similarly, if we continue to swap the children of nodes “eat” and “at”, it produces a scrambled string “rgtae”.
+We say that “rgtae” is a scrambled string of “great”.
+Given two strings A and B of the same length, determine if B is a scrambled string of S.
+
+Implement regular expression matching with support for '.' and '*'.
+'.' Matches any single character.
+'*' Matches zero or more of the preceding element.
+The matching should cover the entire input string (not partial).
+The function prototype should be:
+int isMatch(const char *s, const char *p)
+
+Given A, B, C, find whether C is formed by the interleaving of A and B.
+Input Format:*
+The first argument of input contains a string, A.
+The second argument of input contains a string, B.
+The third argument of input contains a string, C.
+
+Given a binary grid A of size N x M consisting of 0's and 1's, find the area of the largest rectangle inside the grid such that all the cells inside the chosen rectangle should have 1 in them.
+You are allowed to permutate the columns matrix i.e. you can arrange each of the column in any order in the final grid.
+Please follow the sample input and explanation for more clarity.
+
+There are a row of N houses, each house can be painted with one of the three colors: red, blue or green.
+The cost of painting each house with a certain color is different. You have to paint all the houses such that no two adjacent houses have the same color.
+The cost of painting each house with a certain color is represented by a N x 3 cost matrix A.
+For example, A[0][0] is the cost of painting house 0 with color red; A[1][2] is the cost of painting house 1 with color green, and so on.
+Find the minimum total cost to paint all houses.
+
+Find the longest increasing subsequence of a given array of integers, A.
+In other words, find a subsequence of array in which the subsequence’s elements are in strictly increasing order, and in which the subsequence is as long as possible. 
+This subsequence is not necessarily contiguous, or unique.
+In this case, we only care about the length of the longest increasing subsequence.
+
+It’s Tushar’s birthday today and he has N friends.
+Friends are numbered [0, 1, 2, ...., N-1] and ith friend have a positive strength B[i].
+Today being his birthday, his friends have planned to give him birthday bombs (kicks).
+Tushar's friends know Tushar's pain bearing limit and would hit accordingly.
+If Tushar’s resistance is denoted by A (>=0) then find the lexicographically smallest order of friends to kick Tushar so that the cumulative kick strength (sum of the strengths of friends who kicks) doesn’t exceed his resistance capacity and total no. of kicks hit are maximum.
+Also note that each friend can kick unlimited number of times (If a friend hits x times, his strength will be counted x times)
+Return the lexicographically smallest array of maximum length where the ith index represents the index of the friend who will hit.
+
+Given an array of non-negative integers, A, of length N, you are initially positioned at the first index of the array.
+Each element in the array represents your maximum jump length at that position.
+Return the minimum number of jumps required to reach the last index.
+If it is not possible to reach the last index, return -1.
+
+Find out the number of N digit numbers, whose digits on being added equals to a given number S. Note that a valid number starts from digits 1-9 except the number 0 itself. i.e. leading zeroes are not allowed.
+Since the answer can be large, output answer modulo 1000000007
+
+Given a 3 x A board, find the number of ways to color it using at most 4 colors such that no 2 adjacent boxes have same color.
+Diagonal neighbors are not treated as adjacent boxes.
+Return the ways modulo 109 + 7 as the answer grows quickly.
+
+There are A coins (Assume A is even) in a line.
+Two players take turns to take a coin from one of the ends of the line until there are no more coins left.
+The player with the larger amount of money wins, Assume that you go first.
+Return the maximum amount of money you can win.
+
+You are given A eggs, and you have access to a building with B floors from 1 to B.
+Each egg is identical in function, and if an egg breaks, you cannot drop it again.
+You know that there exists a floor C with 0 <= C <= B such that any egg dropped at a floor higher than C will break, and any egg dropped at or below floor C will not break.
+Each move, you may take an egg (if you have an unbroken one) and drop it from any floor X (with 1 <= X <= B). 
+Your goal is to know with certainty what the value of C is.
+What is the minimum number of moves that you need to know with certainty what C is, regardless of the initial value of C
+
+Given a tree with N nodes numbered from 1 to N.
+Each edge is bi-directional and has a certain weight assigned to it.
+You are given Q queries, in each query you are given two integers u and v and you are required to find the maximum weighted edge in a simple path from u to v.
+You have to return the weight of the edge for each queries.
+
+Two kingdoms are on a war right now, kingdom X and kingdom Y. As a war specialist of kingdom X, you scouted kingdom Y area.
+A kingdom area is defined as a N x M grid with each cell denoting a village.
+Each cell has a value which denotes the strength of each corresponding village.
+The strength can also be negative, representing those warriors of your kingdom who were held hostages.
+There’s also another thing to be noticed.
+The strength of any village on row larger than one (2<=r<=N) is stronger or equal to the strength of village which is exactly above it.
+The strength of any village on column larger than one (2<=c<=M) is stronger or equal to the strength of vilage which is exactly to its left.
+(stronger means having higher value as defined above).
+So your task is, find the largest sum of strength that you can erase by bombing one sub-matrix in the grid.
+
+Given an integer array A containing N integers.
+You need to divide the array A into two subsets S1 and S2 such that the absolute difference between their sums is minimum.
+Find and return this minimum possible absolute difference.
+
+The demons had captured the princess (P) and imprisoned her in the bottom-right corner of a dungeon. The dungeon consists of M x N rooms laid out in a 2D grid. Our valiant knight (K) was initially positioned in the top-left room and must fight his way through the dungeon to rescue the princess.
+The knight has an initial health point represented by a positive integer. If at any point his health point drops to 0 or below, he dies immediately.
+Some of the rooms are guarded by demons, so the knight loses health (negative integers) upon entering these rooms; other rooms are either empty (0’s) or contain magic orbs that increase the knight’s health (positive integers).
+In order to reach the princess as quickly as possible, the knight decides to move only rightward or downward in each step.
+Write a function to determine the knight’s minimum initial health so that he is able to rescue the princess.
+For example, given the dungeon below, the initial health of the knight must be at least 7 if he follows the optimal path
+RIGHT-> RIGHT -> DOWN -> DOWN.
+
+There is a rod of length N lying on x-axis with its left end at x = 0 and right end at x = N. Now, there are M weak points on this rod denoted by positive integer values(all less than N) A1, A2, …, AM. You have to cut rod at all these weak points. You can perform these cuts in any order. After a cut, rod gets divided into two smaller sub-rods. Cost of making a cut is the length of the sub-rod in which you are making a cut.
+Your aim is to minimise this cost. Return an array denoting the sequence in which you will make cuts. If two different sequences of cuts give same cost, return the lexicographically smallest.
+
+Say you have an array, A, for which the ith element is the price of a given stock on day i.
+If you were only permitted to complete at most one transaction (i.e, buy one and sell one share of the stock), design an algorithm to find the maximum profit.
+Return the maximum possible profit.
+
+You are given a sequence of black and white horses, and a set of K stables numbered 1 to K. You have to accommodate the horses into the stables in such a way that the following conditions are satisfied:
+You fill the horses into the stables preserving the relative order of horses. For instance, you cannot put horse 1 into stable 2 and horse 2 into stable 1. You have to preserve the ordering of the horses.
+No stable should be empty and no horse should be left unaccommodated.
+Take the product (number of white horses * number of black horses) for each stable and take the sum of all these products. This value should be the minimum among all possible accommodation arrangements
+
+Given an integer array A of size N. You have to merge all the elements of the array into one with the minimum possible cost.
+The rule for merging is as follows:
+·  Choose any two adjacent elements of the array with values say X and Y and merge them into a single element with value (X + Y) paying a total cost of (X + Y).
+Return the minimum possible cost of merging all elements.
+
+As it is Tushar’s Birthday on March 1st, he decided to throw a party to all his friends at TGI Fridays in Pune.
+Given are the eating capacity of each friend, filling capacity of each dish and cost of each dish. A friend is satisfied if the sum of the filling capacity of dishes he ate is equal to his capacity. Find the minimum cost such that all of Tushar’s friends are satisfied (reached their eating capacity).
+
+Given two integer arrays A and B of size N each which represent values and weights associated with N items respectively.
+Also given an integer C which represents knapsack capacity.
+Find out the maximum value subset of A such that sum of the weights of this subset is smaller than or equal to C.
+
+Say you have an array, A, for which the ith element is the price of a given stock on day i.
+Design an algorithm to find the maximum profit.
+You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times).
+However, you may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).

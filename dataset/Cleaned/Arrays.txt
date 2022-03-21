@@ -1,0 +1,15 @@
+There is a corridor in a Jail which is N units long. Given an array A of size N. The ith index of this array is 0 if the light at ith position is faulty otherwise it is 1. All the lights are of specific power B which if is placed at position X, it can light the corridor from [ X-B+1, X+B-1 ]. Initially all lights are off. Return the minimum number of lights to be turned ON to light the whole corridor or -1 if the whole corridor cannot be lighted.
+
+Given a non-negative number represented as an array of digits, add 1 to the number ( increment the number represented by the digits ). The digits are stored such that the most significant digit is at the head of the list.
+
+Given a character matrix of size N x M in the form of a string array A of size N where A[i] denotes ith row. Each character in the matrix consists any one of the following three characters {'r', 'g', 'b'} where 'r' denotes red color similarly 'g' denotes green color and 'b' denotes blue color. You have to find the area of the largest triangle that has one side parallel to y-axis i.e vertical and the color of all three vertices are different.
+
+You are given a binary string A consisting of characters A1, A2, ..., AN. In a single operation, you can choose two indices L and R such that 1 ≤ L ≤ R ≤ N and flip the characters AL, AL+1, ..., AR. By flipping, we mean change character 0 to 1 and vice-versa. Your aim is to perform ATMOST one operation such that in final string number of 1s is maximised. If you don't want to perform the operation, return an empty array. Else, return an array consisting of two elements denoting L and R. If there are multiple solutions, return the lexicographically smallest pair of L and R.
+
+Given an integer array A of size N. You need to check that whether there exist a element which is strictly greater than all the elements on left of it and strictly smaller than all the elements on right of it. If it exists return 1 else return 0.
+
+Given an integer array A of size N. You need to count the number of special elements in the given array. A element is special if removal of that element make the array balanced. Array will be balanced if sum of even index element equal to sum of odd index element.
+
+A hotel manager has to process N advance bookings of rooms for the next season. His hotel has C rooms. Bookings contain an arrival date and a departure date. He wants to find out whether there are enough rooms in the hotel to satisfy the demand. Write a program that solves this problem in time O(N log N) .
+
+You're given a read only array of n integers. Find out if any integer occurs more than n/3 times in the array in linear time and constant additional space. If so, return the integer. If not, return -1. If there are multiple solutions, return any one.

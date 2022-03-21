@@ -1,0 +1,9 @@
+Given a string A consisting of lowercase characters. You have to find the number of substrings in A which starts with vowel and end with consonants or vice-versa. Return the count of substring modulo 109 + 7.
+
+Given the array of strings A, you need to find the longest string S which is the prefix of ALL the strings in the array. Longest common prefix for a pair of strings S1 and S2 is the longest string S which is the prefix of both S1 and S2.
+
+The count-and-say sequence is the sequence of integers beginning as follows:  1, 11, 21, 1211, 111221, ... 1 is read off as one 1 or 11. 11 is read off as two 1s or 21. 21 is read off as one 2, then one 1 or 1211. Given an integer n, generate the nth sequence.
+
+Given an string A. The only operation allowed is to insert characters in the beginning of the string. Find how many minimum characters are needed to be inserted to make the string a palindrome string.
+
+Given an array of words and a length L, format the text such that each line has exactly L characters and is fully (left and right) justified. You should pack your words in a greedy approach; that is, pack as many words as you can in each line. Pad extra spaces ' ' when necessary so that each line has exactly L characters. Extra spaces between words should be distributed as evenly as possible. If the number of spaces on a line do not divide evenly between words, the empty slots on the left will be assigned more spaces than the slots on the right. For the last line of text, it should be left justified and no extra space is inserted between words. Your program should return a list of strings, where each string represents a single line.

@@ -1,0 +1,27 @@
+Given a singly linked list and an integer K, reverses the nodes of thelist K at a time and returns modified linked list.
+
+Given a linked list A of length N and an integer B.You need to reverse every alternate B nodes in the linked list A
+
+Given a Linked List A consisting of N nodes.The Linked List is binary i.e data values in the linked list nodes consist of only 0's and 1's.You need to sort the linked list and return the new linked list.
+
+Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.You should preserve the original relative order of the nodes in each of the two partitions.
+
+Given a linked list A of length N and an integer B.You need to find the value of the Bth node from the middle towards the beginning of the Linked List A.If no such element exists, then return -1.
+
+Reverse a linked list from position m to n. Do it in-place and in one-pass.
+
+Given a singly linked list, determine if its a palindrome. Return 1 or 0 denoting if its a palindrome or not, respectively.
+
+Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list.
+
+Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists, and should also be sorted.
+
+Given a sorted linked list, delete all duplicates such that each element appear only once.
+
+Given a linked list, remove the nth node from the end of list and return its head
+
+Given a linked list A , reverse the order of all nodes at even positions.
+
+Given a linked list, swap every two adjacent nodes and return its head.
+
+Given a linked list, swap every two adjacent nodes and return its head.

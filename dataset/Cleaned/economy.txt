@@ -1,0 +1,101 @@
+In the figure below, AB is the production-possibility curve of Canada. The line PQ shows the price ratio of one bushel of wheat/bale of cotton. The international price ratio is 0.25 bushels of wheat/bale of cotton as shown by the line RS. I1 and I2 are two of the community indifference curves of Canada. After Canada engages in free trade, it will:
+
+In the figure below, AB is the production-possibility curve of Canada. I1 and I2 are two of the community indifference curves of Canada. In the absence of trade Canada will:
+Consider a two-country, two-commodity model. Each country has an increasing-cost production-possibility curve. In this model the amounts of the goods that are produced in a country in the no-trade situation are determined by:
+
+Assume that Country X produces two goods—sugar and shoes—and that the country's production possibility curve is "bowed-out." As the country produces more sugar the opportunity cost of 
+sugar in terms of shoes foregone will
+
+In the following figure, AB is the production-possibility curve of Canada. The line PQ shows the price ratio of one bushel of wheat/bale of cotton. The international price ratio is 0.25 bushels of wheat/bale of cotton as shown by the line RS. I1 and I2 are two of the community indifference curves of Canada. Which of the following can be inferred from this figure?
+
+In the figure below, AB is the production-possibility curve of Canada. I1 and I2 are two of the community indifference curves of Canada. With free trade, the international price ratio is 0.25 bushel of wheat/bale of cotton, and Canada will export:
+ If trade corresponds to the Heckscher-Ohlin theory, which of the following is most likely to happen in the long run after a labor-abundant country engages in free trade?
+
+Country A is relatively land-abundant, and wheat is relatively land-intensive. Given the assumptions of the Heckscher-Ohlin model, the opening of trade by this country will cause the domestic price of wheat to
+
+The Stolper-Samuelson theorem predicts that free trade between the United States, a capital-abundant country, and Mexico, a labor-abundant country, would ultimately result in
+According to the Stolper-Samuelson theorem, a price change that reduces a country's production of its exportable product would
+
+With a shift from no trade to free trade, if Country X is relatively labor-abundant and relatively land-scarce and Country Y is relatively labor-scarce and relatively land-abundant, the factor-price equalization theorem predicts that
+
+The following input-requirements data are for Country A, a capital-abundant country that produces nothing but bread and wine using only capital and labor as inputs. Based on this information, which of the following statements is true?
+
+Which of the following can best explain the clustering of some industries, such as banking and finance in New York City and high-technology computer production in Silicon Valley?
+
+Which of the following refers to a two-way trade in which a country both exports and imports the same or very similar products?
+
+When Firm X doubled its output, it was found that its cost per unit declined by 10 percent. It can be concluded that
+
+Suppose the amount of exports of textile machinery from Italy to the rest of the world equals 60 billion tons. The amount of imports of textile machinery into Italy from the rest of the world is 40 billion tons. Therefore, the intra-industry trade share for machinery is
+
+The Rybczynski theorem asserts that in a two-good model, assuming that product prices stay constant, growth in the endowment of one factor of production with the other factor remaining unchanged, will result in
+
+Assume that a large capital-abundant country trades only two goods with the rest of the world, medical equipment and corn. Medical equipment is relatively capital-intensive. An increase in the country's endowment of capital will cause the price of medical equipment relative to the price of corn to
+ If trade is consistent with the Heckscher-Ohlin (H-O) theory, then growth in a country's scarce factor of production will lead to
+
+Assume a country produces only wine and cups. Both wine and cup production use land and labor as their only inputs. Wine production is relatively land-intensive while cup production is relatively labor-intensive. According to the Rybczynski theorem, a significant rise in immigration is most likely to lead to
+
+Assume that a country produces only cloth and rice. Cloth production requires significant amounts of labor and capital, but relatively less land. Assume that rice production requires relatively less labor and capital, but relatively large amounts of land. If there is an increase in the country's endowments of capital and labor, the Rybczynski theorem predicts that:
+
+Suppose Country A produces two goods, Good X and Good Y. Production of Good X involves an intensive use of skilled workers. Good Y is a relatively capital-intensive good. If the country experiences a wave of immigration of skilled workers, capital remaining unchanged, the Rybczynski theorem predicts that:
+
+Suppose Country X produces only two goods, food and clothing. At the initial free-trade equilibrium, the country produced 40 units of food and 20 units of clothing, and it exports 10 units of food and imports 10 units of clothing. Now suppose technological innovation in Country X leads to a balanced growth while leaving the relative prices of food and clothing unchanged in the international market. Production of food in Country X rises to 50 units. If consumption of food rises to 42 units, the consumption of clothing
+
+Which of the following correctly identifies the impact of tariffs on the producers of import-competing products in the imposing country?
+
+Which of the following is the basis for the consumption effect of a tariff imposed on imported automobiles?
+
+Which of the following refers to the extra cost of shifting to more expensive home production following the imposition of a tariff?
+
+Under which of the following situations will a tariff imposed by a country fail to reduce imports by as much as expected?
+
+Which of the following is a means of allocating import licenses by assigning the licenses without competition, applications, or negotiation?
+
+Which of the following is an expected effect of a tariff or a nontariff barrier (NTB) on a product?
+
+If there is something extra bad about local consumption of a product, then a tariff can be good for the country because
+
+If Social Marginal Benefit (SMB) > Price (P) = Buyer's Private Marginal Benefit (MB) = Seller's Private Marginal Cost (MC) = Social Marginal Cost (SMC), it implies that
+
+Which of the following refers to the positive or negative effect on parties who are not directly involved in a transaction?
+
+Suppose manufacturing of paper results in substantial ground-water pollution. One possible policy that can be used to reduce the inefficiency caused by this externality is
+
+Suppose that the domestic production of computer games creates enjoyment for those who play the games. Domestic production of computer games also results in knowledge spillovers that positively impact many other industries. One possible policy that could be employed to encourage increased production of computer games by domestic firms is
+
+Suppose that the training, skills, and attitudes received by employees in the computer gaming development industry have positive spillover effects as workers leave the industry and move to other jobs. The specificity rule suggests that the best way to achieve more employment in this industry is to
+
+Which of the following is said to occur when a firm lowers its price to limit the decline in the quantity sold during a period of recession?
+
+Which of the following is said to occur when a firm with market power uses price discrimination between markets to increase its total profit?
+
+Which country had no antidumping cases until the early 1990s, but became the top initiator of antidumping cases for the time period 2012-2016?
+
+Which of the following allows member countries to import from other member countries freely, but imposes trade barriers against imports from outside countries?
+
+Which of the following states that any trade concession given to any foreign country must be given to all other countries having the same status?
+
+The figure below shows the U.S. market for imported wine. For simplicity, we consider export supply curves to be flat. Chilean wine is available for $480 per barrel and French wine is available for $420 per barrel.
+
+For which of the following types of environmental pollution can we expect that the level of environmental harm would increase as per capita income increases?
+
+As the world moves toward freer trade, the composition of production shifts so that more environmentally "dirty" products are produced in ________ and more environmentally "clean" products are produced in
+
+In 1989 the United States passed a law against catching shrimp with nets that do not have turtle excluder devices. Four Asian countries filed a complaint with the Word Trade 
+Organization (WTO), and it ruled that the U.S. policy violated WTO rules because
+
+Which of the following exists when a market activity results in direct costs or benefits to someone who is not part of the marketplace decision to undertake the activity?
+
+Which of the following is an example of an international externality, in which production (or consumption) activities in one country impose external costs on other countries?
+
+If the use of fossil fuels is harming our nation, according to the specificity rule the optimal policy to use to mitigate this harm is to
+
+If the use of fossil fuels is harming our nation, according to the specificity rule the optimal policy to use to mitigate this harm is to
+
+Which of the following establishes international cooperation to prevent international trade from endangering the survival of species?
+
+Which of the following involved industrial countries agreeing to cut their emissions of greenhouse gases to about 5 percent below their 1990 levels by the years 2008-2012 while developing countries did not make any commitments?
+
+Which of the following was signed in 1987 and banned the exportation and importation of chlorofluorocarbon compounds (CFCs) and halons?
+
+Which of the following was NOT a reason why the signing and enforcement of the Montreal Protocol was relatively easy?

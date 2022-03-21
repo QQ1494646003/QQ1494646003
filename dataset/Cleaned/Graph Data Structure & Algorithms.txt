@@ -1,0 +1,83 @@
+Given an directed graph having A nodes labelled from 1 to A containing M edges given by matrix B of size M x 2such that there is a edge directed from node
+B[i][0] to node B[i][1].
+Find whether a path exists from node 1 to node A.
+Return 1 if path exists else return 0.
+
+Given an N x M matrix A of non-negative integers representing the height of each unit cell in a continent, the "Blue lake" touches the left and top edges of the matrix and the "Red lake" touches the right and bottom edges.
+Water can only flow in four directions (up, down, left, or right) from a cell to another one with height equal or lower.
+Find the number of cells from where water can flow to both the Blue and Red lake.
+
+Given a 2D board and a word, find if the word exists in the grid.
+The word can be constructed from letters of sequentially adjacent cell, where "adjacent" cells are those horizontally or vertically neighboring. The cell itself does not count as an adjacent cell. 
+The same letter cell may be used more than once.
+
+Given an arbitrary unweighted rooted tree which consists of N nodes.
+The goal of the problem is to find largest distance between two nodes in a tree.
+Distance between two nodes is a number of edges on a path between the nodes (there will be a unique path between any pair of nodes since it is a tree).
+The nodes will be numbered 0 through N - 1.
+The tree is given as an array A, there is an edge between nodes A[i] and i (0 <= i < N). Exactly one of the i's will have A[i] equal to -1, it will be root node.
+
+Given a undirected tree with N nodes labeled from 1 to N.
+Each node has a certain weight assigned to it given by an integer array A of size N.
+You need to delete an edge in such a way that Product between sum of weight of nodes in one subtree with sum of weight of nodes in other subtree is maximized.
+Return this maximum possible product modulo 109 + 7.
+
+There are A people numbered 1 to A in a football academy.
+The coach of the academy wants to make two teams (not necessary of equal size) but unfortunately, not all people get along, and several refuse to be put on the same team as that of their enemies.
+Given a 2-D array B of size M x 2 denoting the enemies i.e B[i][0] and B[i][1] both are enemies of each other.
+Return 1 if it possible to make exactly two teams else return 0.
+
+Rishabh takes out his Snakes and Ladders Game, stares the board and wonders: "If I can always roll the die to whatever number I want, what would be the least number of rolls to reach the destination?"
+RULES:
+The game is played with cubic dice of 6 faces numbered from 1 to A.
+Starting from 1 , land on square 100 with the exact roll of the die. If moving the number rolled would place the player beyond square 100, no move is made.
+If a player lands at the base of a ladder, the player must climb the ladder. Ladders go up only.
+If a player lands at the mouth of a snake, the player must go down the snake and come out through the tail. Snakes go down only.
+BOARD DESCRIPTION:
+The board is always 10 x 10 with squares numbered from 1 to 100.
+The board contains N ladders given in a form of 2D matrix A of size N * 2 where (A[i][0], A[i][1]) denotes a ladder that has its base on square A[i][0] and end at square A[i][1].
+The board contains M snakes given in a form of 2D matrix B of size M * 2 where (B[i][0], B[i][1]) denotes a snake that has its mouth on square B[i][0] and tail at square B[i][1].
+
+Given a binary matrix A of size N x M.
+Cells which contain 1 are called filled cell and cell that contain 0 are called empty cell.
+Two cells are said to be connected if they are adjacent to each other horizontally, vertically, or diagonally.
+If one or more filled cells are also connected, they form a region. Find the length of the largest region.
+
+You are given a AB character matrix named C. Every cell in C has a character U,R,L or D indicating up,right,left and down.
+Your target is to go from top left corner to the bottom right corner of the matrix.
+But there are some restrictions while moving along the matrix:
+If you follow what is written in the cell then you can move freely.
+But if you don't follow what is written in the cell then you have to pay 1 unit of cost.
+Like: If a cell contains character U and you go right instead of Up you have to pay 1 unit of cost.
+So your task is to find the minimum cost to go from top-left corner to the bottom-right corner.
+
+Rishabh wants to get a permutation B.
+Also, Rishabh has some M good pairs given in a form of 2D matrix C of size M x 2 where (C[i][0], C[i][1]) denotes that two indexes of the permutation A.
+In one operation he can swap Ax and Ay only if (x, y) is a good pair.
+You have to tell whether Rishabh can obtain permutation B by performing the above operation any number of times on permutation A.
+If the permutation B can be obtained return 1 else return 0.
+
+There are A islands and there are M bridges connecting them. Each bridge has some cost attached to it.
+We need to find bridges with minimal cost such that all islands are connected.
+It is guaranteed that input data will contain at least one possible scenario in which all islands are connected with each other.
+
+
+There are a total of A courses you have to take, labeled from 1 to A.
+Some courses may have prerequisites, for example to take course 2 you have to first take course 1, which is expressed as a pair: [1,2].
+Given the total number of courses and a list of prerequisite pairs, is it possible for you to finish all courses?
+Return 1 if it is possible to finish all the courses, or 0 if it is not possible to finish all the courses.
+
+
+Given an undirected graph having A nodes labelled from 1 to A with M edges given in a form of matrix B of size M x 2 where (B[i][0], B[i][1]) represents two nodes B[i][0] and B[i][1] connected by an edge.
+Find whether the graph contains a cycle or not, return 1 if cycle is present else return 0.
+
+Given any source point, (C, D) and destination point, (E, F) on a chess board, we need to find whether Knight can move to the destination or not.
+The above figure details the movements for a knight ( 8 possibilities ).
+If yes, then what would be the minimum number of steps for the knight to move to the said point.
+If knight can not move from the source point to the destination point, then return -1.
+
+Given a graph of A nodes. Also given the weighted edges in the form of array B.
+You are also given starting point C and destination point D.
+Also given are some extra edges in the form of vector E.
+You need to find the length of the shortest path from C to D if you can use maximum one road from the given roads in E.
+All roads are one way ie they go from B[i][0] to B[i][1].

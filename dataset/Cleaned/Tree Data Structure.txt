@@ -1,0 +1,21 @@
+Given a binary search tree A, where each node contains a positive integer, and an integer B, you have to find whether or not there exist two different nodes X and Y such that X.value + Y.value = B.Return 1 to denote that two such nodes exist. Return 0, otherwise.
+
+Implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST.The first call to next() will return the smallest number in BST. Calling next() again will return the next smallest number in the BST, and so on.
+
+Given a set of reviews provided by the customers for different hotels and a string containing Good Words, you need to sort the reviews in descending
+orderaccording to their Goodness Value (Higher goodness value first). We define the Goodness Value of a string as the number of Good Words in that string.
+NOTE: Sorting should be stable. If review i and review j have the same Goodness Value then their original order would be preserved.You are expected to use Trie in an Interview for such problems
+
+Given a binary tree denoted by root node A and a leaf node B from this tree.It is known that all nodes connected to a given node (left child, right child and parent) get burned in 1 second. Then all the nodes which are connected through one intermediate get burned in 2 seconds, and so on.You need to find the minimum time required to burn the complete binary tree.
+
+Given a binary tree, find its maximum depth.The maximum depth of a binary tree is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+Given a binary tree containing digits from 0-9 only, each root-to-leaf path could represent a number.An example is the root-to-leaf path 1->2->3 which represents the number 123.Find the total sum of all root-to-leaf numbers % 1003.
+
+Given a binary treestruct TreeLinkNode {TreeLinkNode *left;TreeLinkNode *right;TreeLinkNode *next; }Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.Initially, all next pointers are set to NULL.
+
+Given a binary tree A of integers. Return an array of integers representing the right view of the Binary tree.Right view of a Binary Tree: is a set of nodes visible when the tree is visited from Right side.
+
+You are given the following :A positive number NHeights : A list of heights of N persons standing in a queueInfronts : A list of numbers corresponding to each person (P) that gives the number of persons who are taller than P and standing in front of PYou need to return list of actual order of persons’s height
+
+Given two binary trees, write a function to check if they are equal or not.Two binary trees are considered equal if they are structurally identical and the nodes have the same value.Return 0 / 1 ( 0 for false, 1 for true ) for this problem
