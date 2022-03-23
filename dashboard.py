@@ -1,4 +1,4 @@
-import getpass
+import getpass#密码模块
 import os
 import time
 
@@ -11,7 +11,7 @@ enterprise_user = False
 help_info = ' Get Problems by keywords(Enterprise)\n'
 
 
-def construct_bert():#这里需要联网
+def construct_bert():#这里需要联网，导入transformer
     kw_model = CoreBERT()
     print('Transformer Loaded.')
     return kw_model
