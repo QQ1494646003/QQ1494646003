@@ -16,14 +16,7 @@ def batch_inf(bert_model, enterprise_user):
         return
     dataset_dir = input('Enter Dataset dir')
 
-    '''
-    detail_mode = False
-    
-    if len(dataset_dir) != 0:
-        question_data = peek_dataset(dataset_path=dataset_dir,detailed=detail_mode)
-    else:
-        question_data = peek_dataset(detailed=detail_mode)
-    '''
+
     if len(dataset_dir) == 0:
         dataset_dir = '/home/wbc/wbc/TransformerKW/dataset/Cleaned/*.txt'
     datasets = glob(dataset_dir)
